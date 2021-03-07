@@ -20,3 +20,7 @@ def text_wiki_api(input_text):
 ```
 #### This will return text for input query and further that will be used for text annotating.
 
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat]()
+
