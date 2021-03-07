@@ -20,7 +20,6 @@ cycler==0.10.0
 decorator==4.4.2
 cryptography==3.3.1
 cymem==2.0.5
-cython-blis==0.7.4
 defusedxml==0.7.0
 en-core-web-sm==3.0.0 
 flask==1.1.2
