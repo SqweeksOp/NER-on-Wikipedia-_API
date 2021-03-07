@@ -23,7 +23,6 @@ cymem==2.0.5
 defusedxml==0.7.0
 flask==1.1.2
 flask-httpauth==4.2.0
-freetype==2.10.4
 distlib==0.3.1
 entrypoints==0.3
 filelock==3.0.12
