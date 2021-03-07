@@ -92,7 +92,6 @@ soupsieve==2.1
 streamlit==0.73.1
 testpath==0.4.4
 setuptools==52.0.0 
-sip==4.19.13
 six==1.15.0 
 smart-open==3.0.0 
 smmap==3.0.5
