@@ -30,7 +30,7 @@ def text_wiki_api(input_text):
 ```
 #### This will return text for input query and further that will be used for text annotating.
 
-If you want to embed images, this is how you do it:
+
 
 ![NER](https://github.com/SqweeksOp/NER-on-Wikipedia-_API/blob/main/Screenshot%20(4).png)
 ![NER WITH WORD FREQ](https://github.com/SqweeksOp/NER-on-Wikipedia-_API/blob/main/Screenshot%20(3).png)
