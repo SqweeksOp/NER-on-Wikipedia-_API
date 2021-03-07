@@ -3,6 +3,12 @@
 Wikipedia-API is easy to use Python wrapper for Wikipedias’ API. It supports extracting texts, sections, links, categories, translations, etc from Wikipedia. Documentation provides code snippets for the most common use cases.
 
 
+# Process 
+* Take input query from web and find out related page on Wikipedia as Text
+* Perforn Name Entity recognition task on Text and render them with their annoted class
+* Plot visualization curve for labels frequency. 
+
+
 ```import wikipediaapi 
 
 def text_wiki_api(input_text):
