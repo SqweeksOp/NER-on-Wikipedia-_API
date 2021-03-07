@@ -18,5 +18,5 @@ def text_wiki_api(input_text):
 
     return text_fin
 ```
-## This will return text for input query and further that will be used for text annotating.
+#### This will return text for input query and further that will be used for text annotating.
 
