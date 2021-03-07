@@ -22,5 +22,7 @@ def text_wiki_api(input_text):
 
 If you want to embed images, this is how you do it:
 
-![NER](Screenshot (1).png)
+![NER](https://github.com/SqweeksOp/NER-on-Wikipedia-_API/blob/main/Screenshot%20(1).png)
+![NER WITH WORD FREQ](https://github.com/SqweeksOp/NER-on-Wikipedia-_API/blob/main/Screenshot%20(2).png)
+
 
