@@ -22,5 +22,5 @@ def text_wiki_api(input_text):
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat]()
+![NER](Screenshot (1).png)
 
