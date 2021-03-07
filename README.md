@@ -8,6 +8,10 @@ Wikipedia-API is easy to use Python wrapper for Wikipedias’ API. It supports e
 * Perforn Name Entity recognition task on Text and render them with their annoted class
 * Plot visualization curve for labels frequency. 
 
+# Package and Tools
+* Streamlit, Spacy, Pandas, Matplotlib, Seaborn, Wikipedia-API, Heroku app
+
+
 
 ```import wikipediaapi 
 
