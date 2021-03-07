@@ -26,7 +26,7 @@ input_text = st.text_area("Enter Text Here(Press ctrl+enter)","India")
 Text = text_wiki_api(input_text)
 
 
-@st.cache
+# @st.cache
 def load_data(Text, comment_type=comment_type):
     doc = spacy_streamlit.process_text(spacy_model, Text)
     spacy_streamlit.visualize_ner(doc,
