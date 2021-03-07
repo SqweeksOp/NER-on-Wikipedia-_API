@@ -18,15 +18,12 @@ chardet==4.0.0
 click==7.1.2
 cycler==0.10.0
 decorator==4.4.2
-defusedxml==0.6.0
 console_shortcut==0.1.1
 cryptography==3.3.1
-cycler==0.10.0
 cymem==2.0.5
 cython-blis==0.7.4
 defusedxml==0.7.0
 en-core-web-sm==3.0.0 
-entrypoints==0.3
 flask==1.1.2
 flask-httpauth==4.2.0
 freetype==2.10.4
