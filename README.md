@@ -1,4 +1,4 @@
-# NER-on-Wikipedia-_API
+# NER-on-Wikipedia pages
 ## Wikipedia Api
 Wikipedia-API is easy to use Python wrapper for Wikipedias’ API. It supports extracting texts, sections, links, categories, translations, etc from Wikipedia. Documentation provides code snippets for the most common use cases.
 
